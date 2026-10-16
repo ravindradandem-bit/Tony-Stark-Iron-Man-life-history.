@@ -1,0 +1,6 @@
+{
+  "name": "Stark Industries Classified Archives",
+  "description": "Interactive memorial codex, suit evolution matrix, avionics telemetry HUD, and Stark-OS terminal commemorating Tony Stark.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
